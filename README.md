@@ -3,8 +3,8 @@
 Code, certified optima and result files behind the revised manuscript *A criterion-agnostic memetic differential evolution for
 reliable multilevel image thresholding* (Otsu, Kapur and minimum-cross-entropy criteria, 8-bit images, 2-8 thresholds).
 
-> **Status of this package.** It was assembled locally for the revision. The public repository URL and the licence are to be chosen by the
-> author before release (see `LICENSE_TO_BE_CHOSEN.txt`).
+> **Status.** Public repository: https://github.com/chalermwutcm/RM-MDE-multilevel-thresholding (cited in the manuscript's Data availability statement). The licence is still to be chosen by the author
+> (see `LICENSE_TO_BE_CHOSEN.txt`); until a LICENSE file is added, no reuse rights are granted.
 
 ## What the final results are built on
 
