@@ -1,4 +1,0 @@
-No licence has been chosen for this package.
-
-The author must choose and add a LICENSE file (and decide on the licence of the data and figures) before the repository is made public.
-Until then the code and results are not licensed for reuse.
