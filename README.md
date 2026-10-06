@@ -3,8 +3,7 @@
 Code, certified optima and result files behind the revised manuscript *A criterion-agnostic memetic differential evolution for
 reliable multilevel image thresholding* (Otsu, Kapur and minimum-cross-entropy criteria, 8-bit images, 2-8 thresholds).
 
-> **Status.** Public repository: https://github.com/chalermwutcm/RM-MDE-multilevel-thresholding (cited in the manuscript's Data availability statement). The licence is still to be chosen by the author
-> (see `LICENSE_TO_BE_CHOSEN.txt`); until a LICENSE file is added, no reuse rights are granted.
+> **Licence.** Code: MIT (`LICENSE`). Data, figures and supplementary documents: CC BY 4.0 (`LICENSE-DATA.md`).
 
 ## What the final results are built on
 
@@ -40,7 +39,6 @@ source_code/        all scripts (flat; they import each other: criteria, gopt, a
 data_results/       result files (JSON/CSV); see data_results/DATA_INDEX.md for which are final, intermediate or superseded
 figures/            figures of the manuscript and of the supplementary analyses
 supplementary/      Supplementary_baseline_sensitivity.md (full PSO/DE grid)
-review_response/    Response_to_Reviewers.md and ISSA_equation_audit_checklist.md
 ISSA_legacy/        defective first-version ISSA + the audit that found the error (not part of the pipeline)
 ```
 
